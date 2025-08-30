@@ -52,8 +52,8 @@ Um sistema completo e profissional para gestão de vendas, desenvolvido com Reac
 
 1. **Clone o repositório**
 ```bash
-git clone <url-do-repositorio>
-cd sistema-gestao-vendas
+git clone https://github.com/antonioppx/gestao-de-vendas.git
+cd gestao-de-vendas
 ```
 
 2. **Instale as dependências**
